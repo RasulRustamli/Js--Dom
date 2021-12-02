@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue
+}
+.test{
+
+}
+.test:hover{
+    background-color: lightskyblue
+}
+.fa-trash-alt:before {
+    content: "\f2ed";
+    margin-left: 10px;
+
+}
